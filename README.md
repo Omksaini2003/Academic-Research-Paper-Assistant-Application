@@ -81,7 +81,7 @@ Start the FastAPI server:
 ```bash
 uvicorn app.main:app --reload
 ```
-This will start the backend API on http://localhost:8051
+This will start the backend API on http://localhost:8501
 
 
 Then, start the Streamlit app:
