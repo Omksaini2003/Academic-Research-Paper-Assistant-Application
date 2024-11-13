@@ -1,0 +1,7 @@
+database:
+  neo4j_url: "neo4j+s://c47ef340.databases.neo4j.io"
+  neo4j_user: "neo4j"
+  neo4j_password: "EgtEwv7NAmPy_u-yPKPF0h2ucw2pjC4SyE1d1L5_Z0I"
+
+llm:
+  model_name: "llama"
